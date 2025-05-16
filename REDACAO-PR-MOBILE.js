@@ -113,9 +113,9 @@
 
                     right: 20px;
 
-                    width: 60px;
+                    width: 120px;
 
-                    height: 60px;
+                    height: 120px;
 
                     background: white;
 
@@ -137,9 +137,9 @@
 
                 #copypaste-toggle img {
 
-                    width: 40px;
+                    width: 100px;
 
-                    height: 40px;
+                    height: 100px;
 
                 }
 
